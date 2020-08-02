@@ -5,6 +5,7 @@ public class Test {
         String[] nameArray = {"Meri", "Fred", "Stig"};
         for (String name : nameArray) {
             System.out.println(name);
+            System.out.println("Hello");
         }
     }
 }
